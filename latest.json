@@ -1,6 +1,6 @@
 {
-        "pub_date": "2026-05-04",
-        "url": "https://github.com/FelixAntoinePhilippon/UpdateApp/releases/download/Update/WealthWise.Updater_0.2.2_x64-setup.exe",
-        "version": "0.2.2",
-        "notes": "WealthWise Updater v0.2.2 - Premiere release publique\n\n- Detection auto MAJ via winget (21+ apps)\n- Mise a jour individuelle ou groupee\n- Fermer auto les apps en cours d'utilisation\n- Stop services Windows (Bonjour, etc.)\n- Decodage codes erreur winget en francais\n- Auto-update integre"
+        "pub_date": "2026-05-05",
+        "url": "https://github.com/FelixAntoinePhilippon/UpdateApp/releases/download/v0.2.3/WealthWise.Updater_0.2.3_x64-setup.exe",
+        "version": "0.2.3",
+        "notes": "WealthWise Updater v0.2.3 - Auto-update silencieux\n\n- Bouton 'Installer maintenant' qui telecharge et installe sans navigateur\n- L'app se ferme automatiquement et redemarre apres installation\n- URL whitelisting + sanity check de taille pour la securite\n- Fallback navigateur conserve si besoin\n- Tag GitHub propre (v0.2.3) au lieu de l'ancien tag 'Update'"
 }
