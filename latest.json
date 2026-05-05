@@ -1,6 +1,6 @@
 {
     "pub_date":  "2026-05-05",
-    "url":  "https://github.com/FelixAntoinePhilippon/UpdateApp/releases/download/v0.3.4/WealthWise.Updater_0.3.4_x64-setup.exe",
-    "version":  "0.3.4",
-    "notes":  "Fallback automatique uninstall+install si upgrade plante avec PACKAGE_IN_USE (Bonjour fix radical) + indicateur ADMIN/USER dans le footer"
+    "url":  "https://github.com/FelixAntoinePhilippon/UpdateApp/releases/download/v0.3.5/WealthWise.Updater_0.3.5_x64-setup.exe",
+    "version":  "0.3.5",
+    "notes":  "Couverture etendue (~25 apps : Nvidia, AMD, Razer, Docker, JetBrains, VLC, etc.) + skip strategy pour Bonjour (15s gagnees) + plus de process FiveM (cef_subprocess, etc.)"
 }
