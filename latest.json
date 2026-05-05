@@ -1,6 +1,6 @@
 {
     "pub_date":  "2026-05-05",
-    "url":  "https://github.com/FelixAntoinePhilippon/UpdateApp/releases/download/v0.3.0/WealthWise.Updater_0.3.0_x64-setup.exe",
-    "version":  "0.3.0",
-    "notes":  "Test de l\u0027auto-update silencieux : doit s\u0027installer sans navigateur depuis le bouton \u0027Installer maintenant\u0027."
+    "url":  "https://github.com/FelixAntoinePhilippon/UpdateApp/releases/download/v0.3.1/WealthWise.Updater_0.3.1_x64-setup.exe",
+    "version":  "0.3.1",
+    "notes":  "v0.3.1 - Auto-restart apres update + version dynamique dans le footer (plus de v0.2.1 hardcode)"
 }
