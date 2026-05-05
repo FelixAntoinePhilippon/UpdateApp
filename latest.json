@@ -1,6 +1,6 @@
 {
     "pub_date":  "2026-05-05",
-    "url":  "https://github.com/FelixAntoinePhilippon/UpdateApp/releases/download/v0.3.2/WealthWise.Updater_0.3.2_x64-setup.exe",
-    "version":  "0.3.2",
-    "notes":  "Fix footer (version toujours visible) + watchdog PowerShell pour auto-restart fiable apres install."
+    "url":  "https://github.com/FelixAntoinePhilippon/UpdateApp/releases/download/v0.3.3/WealthWise.Updater_0.3.3_x64-setup.exe",
+    "version":  "0.3.3",
+    "notes":  "Fix Bonjour PACKAGE_IN_USE (disable startup type avant winget) + footer toujours visible + auto-restart fiable"
 }
