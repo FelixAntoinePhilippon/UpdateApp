@@ -1,6 +1,6 @@
 {
     "pub_date":  "2026-05-05",
-    "url":  "https://github.com/FelixAntoinePhilippon/UpdateApp/releases/download/v0.3.5/WealthWise.Updater_0.3.5_x64-setup.exe",
-    "version":  "0.3.5",
-    "notes":  "Couverture etendue (~25 apps : Nvidia, AMD, Razer, Docker, JetBrains, VLC, etc.) + skip strategy pour Bonjour (15s gagnees) + plus de process FiveM (cef_subprocess, etc.)"
+    "url":  "https://github.com/FelixAntoinePhilippon/UpdateApp/releases/download/v0.3.6/WealthWise.Updater_0.3.6_x64-setup.exe",
+    "version":  "0.3.6",
+    "notes":  "Auto-discovery PowerShell des process pour TOUTES les apps : winget upgrade qui plante avec PACKAGE_IN_USE va maintenant marcher pour 99% des apps installees, meme celles non hardcodees, parce qu\u0027on detecte dynamiquement les sub-processes en cours d\u0027execution."
 }
