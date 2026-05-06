@@ -1,6 +1,6 @@
 {
     "pub_date":  "2026-05-05",
-    "url":  "https://github.com/FelixAntoinePhilippon/UpdateApp/releases/download/v0.3.7/WealthWise.Updater_0.3.7_x64-setup.exe",
-    "version":  "0.3.7",
-    "notes":  "Fix FiveM popup uninstall : skip winget pour apps self-updating, lance FiveM.exe qui s\u0027auto-update tout seul"
+    "url":  "https://github.com/FelixAntoinePhilippon/UpdateApp/releases/download/v0.3.8/WealthWise.Updater_0.3.8_x64-setup.exe",
+    "version":  "0.3.8",
+    "notes":  "Fix FiveM admin: passe par explorer.exe pour de-elevate (FiveM/EAC refuse admin)"
 }
