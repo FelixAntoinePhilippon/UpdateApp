@@ -1,6 +1,6 @@
 {
     "pub_date":  "2026-05-06",
-    "url":  "https://github.com/FelixAntoinePhilippon/UpdateApp/releases/download/v0.4.0/WealthWise.Updater_0.4.0_x64-setup.exe",
-    "version":  "0.4.0",
-    "notes":  "Fix FiveM (popup uninstall, refus admin, boucle MAJ Unknown), catalogue x2 ~170 apps populaires hardcoded"
+    "url":  "https://github.com/FelixAntoinePhilippon/UpdateApp/releases/download/v0.4.1/WealthWise.Updater_0.4.1_x64-setup.exe",
+    "version":  "0.4.1",
+    "notes":  "Dialog confirm \u0027fermer app ouverte\u0027 avant MAJ pour Cursor/Claude/Discord/etc."
 }
